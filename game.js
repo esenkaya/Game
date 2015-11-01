@@ -1,7 +1,8 @@
 function gamer() {
 
-var text = "GAME";
-var col = new Array(8);
+var text = prompt("Enter the Word", "Game");
+
+var col = new Array(text.length + 4);
 
 	function game (col){
 		var a;
