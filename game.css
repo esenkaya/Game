@@ -4,7 +4,7 @@ background:#999;
 #gamebox {
 display:block;
 background: #ccc;
-width:200px;
+width:400px;
 margin:100px auto; 
 border: 10px groove gray;
 }
